@@ -46,8 +46,12 @@ Interacting with the Chatbot: Upon successful authentication, users can speak qu
 Technologies Used
 
 Python
+
 Flask
+
 OpenAI GPT-3.5
+
 Face Recognition Library
+
 HTML/CSS (for the basic web interface)
 
