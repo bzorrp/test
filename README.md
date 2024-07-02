@@ -3,7 +3,8 @@ This is a simple chatbot which requires facial recognition in order to be activa
 
 
 
-Facial Recognition and AI Chat Integration
+Facial Recognition and AI Chat Integration:
+
 This repository contains a Flask-based web application that combines facial recognition with AI-powered chat capabilities using OpenAI's GPT-3.5 model. The application allows users to interact with a chatbot after verifying their identity via facial recognition.
 
 Features
@@ -13,14 +14,18 @@ Web Interface: Provides a simple web interface where users can interact with the
 
 
 Setup
+
 Clone the Repository:
 git clone https://github.com/bzorrp/kayode_bot.git
+
 cd kayode_bot
 
 Install Dependencies:
+
 pip install -r requirements.txt
 
 Obtain an API key from OpenAI and set it in your environment variables or .env file:
+
 export OPENAI_API_KEY='your-openai-api-key'
 
 
